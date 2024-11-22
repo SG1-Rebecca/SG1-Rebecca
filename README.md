@@ -4,7 +4,6 @@
 - 💡 I am passionate about continuous learning
 - 🧠 I'm learning Java and Spring
 
-Voici une version réorganisée de la section **Skills** en regroupant les compétences par catégories : **Frontend**, **Backend**, **Tools**, etc.  
 
 ---
 
