@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SG1-Rebecca
+- 👋 Hi, I’m Rebecca
 - 🎯 Currently undergoing a career change, I am training in application design and development.
 - 📚 My goal: to leverage my new skills and thrive as an application designer and developer.
 - 💡 I am passionate about continuous learning
@@ -80,11 +80,6 @@
 <a href="http://www.github.com/SG1-Rebecca"><img src="https://github-readme-stats.vercel.app/api?username=SG1-Rebecca&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="SG1-Rebecca's GitHub stats" /></a>
 
 <a href="http://www.github.com/SG1-Rebecca"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SG1-Rebecca&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/SG1-Rebecca">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SG1-Rebecca&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
 
 <a href="https://github.com/SG1-Rebecca" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SG1-Rebecca&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
