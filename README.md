@@ -2,7 +2,7 @@
 - 🎯 Currently undergoing a career change, I am training in application design and development.
 - 📚 My goal: to leverage my new skills and thrive as an application designer and developer.
 - 💡 I am passionate about continuous learning
-- 🧠 I'm learning C
+- 🧠 I'm learning Python
 
 
 ---
