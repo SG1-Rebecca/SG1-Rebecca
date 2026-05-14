@@ -24,7 +24,7 @@
 
 <div align="left">
 
-- 🌱 I'm currently learning **Python, Flask and SQL**
+- 🌱 I'm currently learning **Python, Javascript**
 
 </div>
 
